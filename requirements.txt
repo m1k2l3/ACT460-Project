@@ -1,0 +1,17 @@
+
+# Core data stack
+numpy>=2.0
+pandas>=2.2
+pyarrow>=16.0; python_version < "3.13"
+fastparquet>=2024.11.0
+
+# Modeling
+scikit-learn>=1.5
+scipy>=1.13
+
+# Grah
+matplotlib>=3.8
+
+# Notebook support
+jupyter>=1.0
+ipykernel>=6.29
